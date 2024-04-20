@@ -3,24 +3,15 @@
     margin: 0;
 }
 
-main{
-    margin-left: 2rem;
-    margin-right: 2rem;
-}
 nav{
     display: flex;
     justify-content: space-between;
-    background: gray;
 }
 ul {
     display: flex;
     justify-content: space-between;
 } 
 
-.log{
-    background:red;
-    color:black;
-}
 li{
   list-style: none;  
 
