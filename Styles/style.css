@@ -33,6 +33,8 @@ button{
 span{
     color: red;
 }
+<<<<<<< HEAD
+=======
 section .part{
     height: 80vh;
     display: flex;
@@ -64,3 +66,4 @@ section .part2{
 margin-right: 10%;
    
 }
+>>>>>>> 3bbf35c00d4031c191cdd993d492c53c5f4a401b
