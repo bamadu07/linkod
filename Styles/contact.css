@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: o;
+}
+section{
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+input{
+    width: 570px;
+    height: 40px;
+    border: solid 1px rgba(0, 0, 0, 0.59);
+    margin: 8px;
+   border-radius: 5px;
+}
+.iframe{
+  margin-top: 5%;
+  margin-left: 4%;
+}
+h2{
+    text-align: center;
+}
+form{
+    width: 600px;
+    height: 450px;
+    margin-top: 5%;
+    margin-right: 4%;
+}
+textarea{
+    width: 570px;
+    margin-left: 10px;
+}
+input[type="submit"]{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
