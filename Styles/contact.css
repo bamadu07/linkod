@@ -36,7 +36,7 @@ input{
 input[type=submit]{
     background: red;
     color: white;
-    font-size: 21px;
+    font-size: 22px;
     border: none;
     border-radius: 5px;
 }
