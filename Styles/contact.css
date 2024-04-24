@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.iframe{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.iframe h2{
+    text-align: center;
+}
+iframe{
+    margin: 5px;
+}
+form{
+    margin-right:5% ;
+    margin-top: 5%;
+}
+form h1{
+    text-align: center;
+}
+input{
+    margin: 10px;
+    height: 40px;
+    width: 550px;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+textarea{
+    width: 550px;
+    margin: 10px;
+    border-radius: 5px;
+}
+input[type=submit]{
+    background: red;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    font-size: 22px;
+}
+fieldset{
+    border-radius: 8px;
+}
