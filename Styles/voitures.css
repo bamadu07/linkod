@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.voitures{
+    margin-top: 40px;
+display: flex;
+margin-left: 10%;
+
+}
+
+.voitures img{
+height: 30vh;
+width: 50vh;
+margin: 20px;
+}
+.text{
+text-align: center;
+}
+
+button{
+    background-color: red;
+    padding: 7px;
+    
+    border-style: none;
+    border-radius: 2%;
+}
+span{
+
+}
